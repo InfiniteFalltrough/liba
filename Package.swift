@@ -8,8 +8,8 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "liba",
-            targets: ["liba"]
+            name: "HevSocks5Tunnel",
+            targets: ["HevSocks5Tunnel"]
         ),
     ],
     targets: [
